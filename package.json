@@ -1,0 +1,15 @@
+{
+  "name": "adonde",
+  "version": "0.0.1",
+  "description": "Adondevivir.com/Urbania.pe scrappers to get real estate data",
+  "main": "index.js",
+  "author": "Gustavo Leon",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request": "^2.65.0"
+  }
+}
